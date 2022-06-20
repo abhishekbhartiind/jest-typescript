@@ -1,14 +1,14 @@
 {
   "name": "learn-jest",
   "version": "1.0.0",
-  "description": "",
+  "description": "Jest is testing framework",
   "main": "index.js",
   "scripts": {
     "build": "tsc",
     "test": "jest"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["jest", "typescript", "ts-jest"],
+  "author": "Abhishek Bharti",
   "license": "ISC",
   "devDependencies": {
     "@types/jest": "^28.1.2",
